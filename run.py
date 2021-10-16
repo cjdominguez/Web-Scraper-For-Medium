@@ -19,5 +19,9 @@ from Scrape.logged import Login
 
 inst = Login()
 inst.launch_Page()
+inst.logins()
+
+
+
 
 
